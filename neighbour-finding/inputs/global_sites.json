@@ -1,0 +1,122 @@
+[
+    {
+        "altitude": 204.0,
+        "latitude": 25.9667,
+        "longitude": 117.35,
+        "wmo_id": 58921
+    },
+    {
+        "altitude": 161.0,
+        "latitude": 47.7333,
+        "longitude": 26.65,
+        "wmo_id": 15020
+    },
+    {
+        "altitude": 2181.0,
+        "latitude": 36.2167,
+        "longitude": -111.8167,
+        "wmo_id": 72376
+    },
+    {
+        "altitude": 223.0,
+        "latitude": -17.5522,
+        "longitude": 133.5408,
+        "wmo_id": 94236
+    },
+    {
+        "altitude": 90.0,
+        "latitude": -0.1333,
+        "longitude": -67.0833,
+        "wmo_id": 82106
+    },
+    {
+        "altitude": 711.0,
+        "latitude": -17.2167,
+        "longitude": -46.8667,
+        "wmo_id": 83479
+    },
+    {
+        "altitude": 2440.0,
+        "latitude": 22.7833,
+        "longitude": -102.5667,
+        "wmo_id": 76525
+    },
+    {
+        "altitude": 26.0,
+        "latitude": -16.4167,
+        "longitude": 167.8,
+        "wmo_id": 91555
+    },
+    {
+        "altitude": 65.0,
+        "latitude": -4.3833,
+        "longitude": -70.0333,
+        "wmo_id": 82410
+    },
+    {
+        "altitude": 3.0,
+        "latitude": -19.9061,
+        "longitude": -144.9494,
+        "wmo_id": 91945
+    },
+    {
+        "altitude": 8.0,
+        "latitude": -17.1167,
+        "longitude": 152.0039,
+        "wmo_id": 94296
+    },
+    {
+        "altitude": 5.0,
+        "latitude": 6.9,
+        "longitude": 122.0667,
+        "wmo_id": 98836
+    },
+    {
+        "altitude": 512.0,
+        "latitude": -15.9167,
+        "longitude": -50.1333,
+        "wmo_id": 83374
+    },
+    {
+        "altitude": 2.0,
+        "latitude": 1.0167,
+        "longitude": 120.8,
+        "wmo_id": 97028
+    },
+    {
+        "altitude": 25.0,
+        "latitude": -4.25,
+        "longitude": -44.7833,
+        "wmo_id": 82460
+    },
+    {
+        "altitude": 2156.0,
+        "latitude": 36.1667,
+        "longitude": 73.4,
+        "wmo_id": 41504
+    },
+    {
+        "altitude": 28.0,
+        "latitude": 68.75,
+        "longitude": 161.2833,
+        "wmo_id": 25123
+    },
+    {
+        "altitude": 278.0,
+        "latitude": 50.1667,
+        "longitude": 27.0333,
+        "wmo_id": 33317
+    },
+    {
+        "altitude": 1465.0,
+        "latitude": 35.5667,
+        "longitude": 71.7833,
+        "wmo_id": 41515
+    },
+    {
+        "altitude": 224.0,
+        "latitude": 50.2333,
+        "longitude": 28.7333,
+        "wmo_id": 33325
+    }
+]

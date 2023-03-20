@@ -1,0 +1,44 @@
+{
+    "lightning": {
+        "if_true": 29,
+        "if_false": 1,
+        "probability_thresholds": [
+            0.3
+        ],
+        "threshold_condition": ">=",
+        "condition_combination": "",
+        "diagnostic_fields": [
+            "probability_of_number_of_lightning_flashes_per_unit_area_in_vicinity_above_threshold"
+        ],
+        "diagnostic_thresholds": [
+            [
+                0.0,
+                "m-2"
+            ]
+        ],
+        "diagnostic_conditions": [
+            "above"
+        ]
+    },
+    "unreachable": {
+        "if_true": 3,
+        "if_false": 1,
+        "probability_thresholds": [
+            0.5
+        ],
+        "threshold_condition": ">=",
+        "condition_combination": "",
+        "diagnostic_fields": [
+            "probability_of_low_and_medium_type_cloud_area_fraction_above_threshold"
+        ],
+        "diagnostic_thresholds": [
+            [
+                0.1875,
+                1
+            ]
+        ],
+        "diagnostic_conditions": [
+            "above"
+        ]
+    }
+}
