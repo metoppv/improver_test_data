@@ -1,0 +1,387 @@
+[
+    {
+        "wmo_id": 0,
+        "met_office_site_id": 0,
+        "latitude": 50.352,
+        "longitude": -5.0338,
+        "altitude": 130.0
+    },
+    {
+        "wmo_id": 1,
+        "met_office_site_id": 1,
+        "latitude": 50.4985,
+        "longitude": -4.387,
+        "altitude": 187.0
+    },
+    {
+        "wmo_id": 2,
+        "met_office_site_id": 2,
+        "latitude": 50.436,
+        "longitude": -4.4494,
+        "altitude": 115.0
+    },
+    {
+        "wmo_id": 3,
+        "met_office_site_id": 3,
+        "latitude": 49.8786,
+        "longitude": -6.4176,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 4,
+        "met_office_site_id": 4,
+        "latitude": 50.6361,
+        "longitude": -4.7045,
+        "altitude": 240.0
+    },
+    {
+        "wmo_id": 5,
+        "met_office_site_id": 5,
+        "latitude": 49.96,
+        "longitude": -5.202,
+        "altitude": 55.0
+    },
+    {
+        "wmo_id": 6,
+        "met_office_site_id": 6,
+        "latitude": 50.8262,
+        "longitude": -4.5425,
+        "altitude": 7.0
+    },
+    {
+        "wmo_id": 7,
+        "met_office_site_id": 7,
+        "latitude": 50.152,
+        "longitude": -5.0652,
+        "altitude": 9.0
+    },
+    {
+        "wmo_id": 8,
+        "met_office_site_id": 8,
+        "latitude": 50.2627,
+        "longitude": -5.05,
+        "altitude": 3.0
+    },
+    {
+        "wmo_id": 9,
+        "met_office_site_id": 9,
+        "latitude": 50.5078,
+        "longitude": -4.9618,
+        "altitude": 65.0
+    },
+    {
+        "wmo_id": 10,
+        "met_office_site_id": 10,
+        "latitude": 50.2122,
+        "longitude": -5.2937,
+        "altitude": 103.0
+    },
+    {
+        "wmo_id": 11,
+        "met_office_site_id": 11,
+        "latitude": 50.4923,
+        "longitude": -4.5155,
+        "altitude": 188.0
+    },
+    {
+        "wmo_id": 12,
+        "met_office_site_id": 12,
+        "latitude": 50.3699,
+        "longitude": -4.6462,
+        "altitude": 66.0
+    },
+    {
+        "wmo_id": 13,
+        "met_office_site_id": 13,
+        "latitude": 50.4155,
+        "longitude": -4.5112,
+        "altitude": 50.0
+    },
+    {
+        "wmo_id": 14,
+        "met_office_site_id": 14,
+        "latitude": 50.2003,
+        "longitude": -5.1465,
+        "altitude": 26.0
+    },
+    {
+        "wmo_id": 15,
+        "met_office_site_id": 15,
+        "latitude": 50.4402,
+        "longitude": -4.691,
+        "altitude": 76.0
+    },
+    {
+        "wmo_id": 16,
+        "met_office_site_id": 16,
+        "latitude": 50.4055,
+        "longitude": -4.6739,
+        "altitude": 48.0
+    },
+    {
+        "wmo_id": 17,
+        "met_office_site_id": 17,
+        "latitude": 50.4407,
+        "longitude": -5.0028,
+        "altitude": 119.0
+    },
+    {
+        "wmo_id": 18,
+        "met_office_site_id": 18,
+        "latitude": 50.1193,
+        "longitude": -5.5584,
+        "altitude": 51.0
+    },
+    {
+        "wmo_id": 19,
+        "met_office_site_id": 19,
+        "latitude": 50.3116,
+        "longitude": -5.2114,
+        "altitude": 130.0
+    },
+    {
+        "wmo_id": 20,
+        "met_office_site_id": 20,
+        "latitude": 49.9171,
+        "longitude": -6.2918,
+        "altitude": 10.0
+    },
+    {
+        "wmo_id": 21,
+        "met_office_site_id": 21,
+        "latitude": 50.1039,
+        "longitude": -5.1221,
+        "altitude": 48.0
+    },
+    {
+        "wmo_id": 22,
+        "met_office_site_id": 22,
+        "latitude": 49.9463,
+        "longitude": -6.3336,
+        "altitude": 6.0
+    },
+    {
+        "wmo_id": 23,
+        "met_office_site_id": 23,
+        "latitude": 50.7299,
+        "longitude": -4.5776,
+        "altitude": 164.0
+    },
+    {
+        "wmo_id": 24,
+        "met_office_site_id": 24,
+        "latitude": 50.7914,
+        "longitude": -4.5595,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 25,
+        "met_office_site_id": 25,
+        "latitude": 50.5409,
+        "longitude": -4.9979,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 26,
+        "met_office_site_id": 26,
+        "latitude": 50.4467,
+        "longitude": -5.0426,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 27,
+        "met_office_site_id": 27,
+        "latitude": 50.4164,
+        "longitude": -5.1002,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 28,
+        "met_office_site_id": 28,
+        "latitude": 50.2613,
+        "longitude": -5.2939,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 29,
+        "met_office_site_id": 29,
+        "latitude": 50.0814,
+        "longitude": -5.6937,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 30,
+        "met_office_site_id": 30,
+        "latitude": 50.1032,
+        "longitude": -5.3903,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 31,
+        "met_office_site_id": 31,
+        "latitude": 50.0376,
+        "longitude": -5.2678,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 32,
+        "met_office_site_id": 32,
+        "latitude": 50.2342,
+        "longitude": -4.7904,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 33,
+        "met_office_site_id": 33,
+        "latitude": 50.3277,
+        "longitude": -4.7614,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 34,
+        "met_office_site_id": 34,
+        "latitude": 50.3609,
+        "longitude": -4.348,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 35,
+        "met_office_site_id": 35,
+        "latitude": 50.3934,
+        "longitude": -4.929,
+        "altitude": 146.0
+    },
+    {
+        "wmo_id": 36,
+        "met_office_site_id": 36,
+        "latitude": 50.9011,
+        "longitude": -4.3825,
+        "altitude": 180.0
+    },
+    {
+        "wmo_id": 37,
+        "met_office_site_id": 37,
+        "latitude": 50.502,
+        "longitude": -4.666,
+        "altitude": 198.0
+    },
+    {
+        "wmo_id": 38,
+        "met_office_site_id": 38,
+        "latitude": 50.3587,
+        "longitude": -5.151,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 39,
+        "met_office_site_id": 39,
+        "latitude": 50.424,
+        "longitude": -5.0582,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 40,
+        "met_office_site_id": 40,
+        "latitude": 50.8611,
+        "longitude": -4.5562,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 41,
+        "met_office_site_id": 41,
+        "latitude": 50.2008,
+        "longitude": -5.4235,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 42,
+        "met_office_site_id": 42,
+        "latitude": 50.2124,
+        "longitude": -5.4075,
+        "altitude": 0.0
+    },
+    {
+        "wmo_id": 43,
+        "met_office_site_id": 43,
+        "latitude": 50.5114,
+        "longitude": -4.4367,
+        "altitude": 371.0
+    },
+    {
+        "wmo_id": 44,
+        "met_office_site_id": 44,
+        "latitude": 50.1654,
+        "longitude": -5.4559,
+        "altitude": 42.0
+    },
+    {
+        "wmo_id": 45,
+        "met_office_site_id": 45,
+        "latitude": 50.4783,
+        "longitude": -4.3831,
+        "altitude": 168.0
+    },
+    {
+        "wmo_id": 46,
+        "met_office_site_id": 46,
+        "latitude": 50.1858,
+        "longitude": -5.4196,
+        "altitude": 15.4
+    },
+    {
+        "wmo_id": 47,
+        "met_office_site_id": 47,
+        "latitude": 50.6395,
+        "longitude": -4.391,
+        "altitude": 85.1
+    },
+    {
+        "wmo_id": 48,
+        "met_office_site_id": 48,
+        "latitude": 50.3618,
+        "longitude": -5.0398,
+        "altitude": 39.0
+    },
+    {
+        "wmo_id": 49,
+        "met_office_site_id": 49,
+        "latitude": 50.6395,
+        "longitude": -4.3611,
+        "altitude": 91.5
+    },
+    {
+        "wmo_id": 50,
+        "met_office_site_id": 50,
+        "latitude": 50.4068,
+        "longitude": -4.6664,
+        "altitude": 3.6
+    },
+    {
+        "wmo_id": 51,
+        "met_office_site_id": 51,
+        "latitude": 50.4147,
+        "longitude": -5.0754,
+        "altitude": 32.0
+    },
+    {
+        "wmo_id": 52,
+        "met_office_site_id": 52,
+        "latitude": 50.2165,
+        "longitude": -5.1124,
+        "altitude": 47.0
+    },
+    {
+        "wmo_id": 53,
+        "met_office_site_id": 53,
+        "latitude": 50.3398,
+        "longitude": -4.79,
+        "altitude": 84.4
+    },
+    {
+        "wmo_id": 54,
+        "met_office_site_id": 54,
+        "latitude": 50.264,
+        "longitude": -5.0635,
+        "altitude": 34.1
+    }
+]

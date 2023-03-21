@@ -1,0 +1,1 @@
+{"name": "air_temperature", "units": "degrees", "time": "20200102T0000Z", "time_bounds": ["20200101T2200Z", "20200102T0000Z"], "frt":"20200101T1200Z", "coords": {"realizations": [0,1,2,3]}}
