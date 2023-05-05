@@ -1,0 +1,22 @@
+{
+    "nc_det": {
+        "forecast_period": [0, 5],
+        "weights": [1, 0],
+        "units": "hours"
+    },
+    "uk_det": {
+        "forecast_period": [0, 5, 6, 13],
+        "weights": [0.00005, 0.25, 0.25, 0],
+        "units": "hours"
+    },
+    "uk_ens": {
+        "forecast_period": [0, 5, 6, 13, 96, 120],
+        "weights": [0.00015, 0.75, 0.75, 1, 1, 0],
+        "units": "hours"
+    },
+    "gl_ens": {
+        "forecast_period": [48, 96, 120],
+        "weights": [0, 0.05, 1],
+        "units": "hours"
+    }
+}
