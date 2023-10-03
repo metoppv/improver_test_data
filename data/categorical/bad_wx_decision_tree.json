@@ -1,7 +1,7 @@
 {
     "lightning": {
-        "if_true": 29,
-        "if_false": 1,
+        "if_true": "Thunder",
+        "if_false": "Sunny_Day",
         "probability_thresholds": [
             0.3
         ],
@@ -21,8 +21,8 @@
         ]
     },
     "unreachable": {
-        "if_true": 3,
-        "if_false": 1,
+        "if_true": "Thunder",
+        "if_false": "Sunny_Day",
         "probability_thresholds": [
             0.5
         ],
@@ -40,5 +40,14 @@
         "diagnostic_conditions": [
             "above"
         ]
+    },
+    "meta": {
+        "name": "weather_code"
+    },
+    "Thunder": {
+        "leaf": 30
+    },
+    "Sunny_Day": {
+        "leaf": 1
     }
 }
