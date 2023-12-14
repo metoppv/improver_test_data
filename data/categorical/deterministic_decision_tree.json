@@ -1,0 +1,35 @@
+{
+    "meta": {"name": "precipitation_type"},
+
+    "precip_rate": {
+        "if_true": "hail_rate",
+        "if_false": "No_Precipitation",
+        "thresholds": [0],
+        "threshold_condition": ">",
+        "condition_combination": "",
+        "diagnostic_fields": ["lwe_precipitation_rate"],
+        "deterministic": "True"
+    },
+    "hail_rate": {
+        "if_true": "hail_size_large",
+        "if_false": "Rain",
+        "thresholds": [8.333e-09],
+        "threshold_condition": ">",
+        "condition_combination": "",
+        "diagnostic_fields": ["lwe_graupel_and_hail_fall_rate"],
+        "deterministic": "True"
+    },
+    "hail_size_large": {
+        "if_true": "Large_Hail",
+        "if_false": "Small_Hail",
+        "thresholds": [0.01],
+        "threshold_condition": ">",
+        "condition_combination": "",
+        "diagnostic_fields": ["diameter_of_hail_stones"],
+        "deterministic": "True"
+    },
+    "No_Precipitation": {"leaf": 0},
+    "Rain": {"leaf": 1},
+    "Small_Hail": {"leaf": 10},
+    "Large_Hail": {"leaf": 192}
+}
