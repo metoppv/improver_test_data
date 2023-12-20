@@ -1,6 +1,6 @@
 # IMPROVER acceptance test data
 
-This repository provides the data required to run the IMPROVER acceptance tests.
+This repository provides the data required to run the [IMPROVER](https://github.com/metoppv/improver) acceptance tests.
 
 ## Using the data
 
