@@ -1,0 +1,7 @@
+{
+    "rain_shower": [14, 10],
+    "rain": [15, 12],
+    "snow_shower": [26, 23],
+    "snow": [27, 24],
+    "thunder": [30, 29]
+}
