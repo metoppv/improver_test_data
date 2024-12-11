@@ -919,91 +919,113 @@
         "leaf": 8
     },
     "Light_Shower_Night": {
-        "leaf": 9
+        "leaf": 9,
+        "dry_equivalent": 2
     },
     "Light_Shower_Day": {
         "leaf": 10,
         "if_night": "Light_Shower_Night",
-        "group": "rain"
+        "group": "rain",
+        "dry_equivalent": 3
     },
     "Drizzle": {
         "leaf": 11,
-        "group": "rain"
+        "group": "rain",
+        "dry_equivalent": 8
     },
     "Light_Rain": {
         "leaf": 12,
-        "group": "rain"
+        "group": "rain",
+        "dry_equivalent": 8
     },
     "Heavy_Shower_Night": {
-        "leaf": 13
+        "leaf": 13,
+        "dry_equivalent": 2
     },
     "Heavy_Shower_Day": {
         "leaf": 14,
         "if_night": "Heavy_Shower_Night",
-        "group": "rain"
+        "group": "rain",
+        "dry_equivalent": 3
     },
     "Heavy_Rain": {
         "leaf": 15,
-        "group": "rain"
+        "group": "rain",
+        "dry_equivalent": 8
     },
     "Sleet_Shower_Night": {
-        "leaf": 16
+        "leaf": 16,
+        "dry_equivalent": 2
     },
     "Sleet_Shower_Day": {
         "leaf": 17,
         "if_night": "Sleet_Shower_Night",
-        "group": "sleet"
+        "group": "sleet",
+        "dry_equivalent": 3
     },
     "Sleet": {
         "leaf": 18,
-        "group": "sleet"
+        "group": "sleet",
+        "dry_equivalent": 8
     },
     "Hail_Shower_Night": {
-        "leaf": 19
+        "leaf": 19,
+        "dry_equivalent": 2
     },
     "Hail_Shower_Day": {
         "leaf": 20,
         "if_night": "Hail_Shower_Night",
-        "group": "convection"
+        "group": "convection",
+        "dry_equivalent": 3
     },
     "Hail": {
         "leaf": 21,
-        "group": "convection"
+        "group": "convection",
+        "dry_equivalent": 8
     },
     "Light_Snow_Shower_Night": {
-        "leaf": 22
+        "leaf": 22,
+        "dry_equivalent": 2
     },
     "Light_Snow_Shower_Day": {
         "leaf": 23,
         "if_night": "Light_Snow_Shower_Night",
-        "group": "snow"
+        "group": "snow",
+        "dry_equivalent": 3
     },
     "Light_Snow": {
         "leaf": 24,
-        "group": "snow"
+        "group": "snow",
+        "dry_equivalent": 8
     },
     "Heavy_Snow_Shower_Night": {
-        "leaf": 25
+        "leaf": 25,
+        "dry_equivalent": 2
     },
     "Heavy_Snow_Shower_Day": {
         "leaf": 26,
         "if_night": "Heavy_Snow_Shower_Night",
-        "group": "snow"
+        "group": "snow",
+        "dry_equivalent": 3
     },
     "Heavy_Snow": {
         "leaf": 27,
-        "group": "snow"
+        "group": "snow",
+        "dry_equivalent": 8
     },
     "Thunder_Shower_Night": {
-        "leaf": 28
+        "leaf": 28,
+        "dry_equivalent": 2
     },
     "Thunder_Shower_Day": {
         "leaf": 29,
         "if_night": "Thunder_Shower_Night",
-        "group": "convection"
+        "group": "convection",
+        "dry_equivalent": 3
     },
     "Thunder": {
         "leaf": 30,
-        "group": "convection"
+        "group": "convection",
+        "dry_equivalent": 8
     }
 }
