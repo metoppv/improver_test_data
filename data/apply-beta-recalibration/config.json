@@ -1,0 +1,6 @@
+{
+"forecast_period": [0, 24],
+"alpha": [1, 2],
+"beta": [2, 3],
+"units": "hours"
+}
