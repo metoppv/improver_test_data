@@ -1,42 +1,54 @@
 {
     "24": {
         "0.000010": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000010-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000010-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.000010-PT24H.so"
         },
         "0.000100": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000100-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000100-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.000100-PT24H.so"
         },
         "0.000200": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000200-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.000200-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.000200-PT24H.so"
         },
         "0.001000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.001000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.001000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.001000-PT24H.so"
         },
         "0.010000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.010000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.010000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.010000-PT24H.so"
         },
         "0.100000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.100000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_024H-threshold_0.100000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_024H-threshold_0.100000-PT24H.so"
         }
     },
     "48": {
         "0.000010": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000010-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000010-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.000010-PT24H.so"
         },
         "0.000100": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000100-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000100-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.000100-PT24H.so"
         },
         "0.000200": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000200-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.000200-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.000200-PT24H.so"
         },
         "0.001000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.001000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.001000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.001000-PT24H.so"
         },
         "0.010000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.010000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.010000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.010000-PT24H.so"
         },
         "0.100000": {
-            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.100000-PT24H.txt"
+            "lightgbm_model": "./apply-rainforests-calibration/model_files/lightgbm_models/lgb_model-ecmwf-lead_time_048H-threshold_0.100000-PT24H.txt",
+            "treelite_model": "./apply-rainforests-calibration/model_files/treelite_models/treelite_model-ecmwf-lead_time_048H-threshold_0.100000-PT24H.so"
         }
     }
 }
