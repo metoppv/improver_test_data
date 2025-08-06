@@ -1,0 +1,7 @@
+{
+    "air_temperature": [
+        "mean",
+        "std",
+        "altitude"
+    ]
+}
