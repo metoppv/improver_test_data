@@ -1,0 +1,20 @@
+name: Enforce 100KB size limit
+on:
+  pull_request
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+           fetch-depth: 2
+      # Check only files modified by this change to see if any exceed 100K
+      - name: Size check
+        run:  |
+          changed=$(git diff --name-only -r HEAD^1 HEAD)
+          if [[ -z $changed ]]; then exit 0; fi
+          big=$(find $changed -size +50k -size -100k)
+          if [[ -n $big ]]; then for file in $big; do echo "::warning file=${file},title=Large file::This file is >50KB, consider shrinking it if possible."; done; fi
+          too_large=$(find $changed -size +100k)
+          if [[ -n $too_large ]]; then for file in $too_large; do echo "::error file=${file},title=File too large::This file is >100KB and must be shrunk prior to being comitted."; done; exit 1; fi
