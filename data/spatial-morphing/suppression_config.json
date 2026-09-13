@@ -1,0 +1,18 @@
+{
+	"quantile_for_centre": 0.9,
+	"width_fraction": 2.0,
+	"maximum_suppression": 1.0,
+	"showery_neighbourhood_size": 11,
+	"showery_weight_factor": 0.75,
+	"weakness_weight_factor": 0.25,
+	"convective_neighbourhood_size": 25,
+	"convective_gain": 0.9,
+	"concentration_reference": 2.0,
+	"concentration_scale": 5.0,
+	"upper_tail_quantile": 0.95,
+	"convective_mask_threshold": 0.5,
+	"maximum_intensity_scale": 1.5,
+	"upper_tail_intensity_quantile": 0.75,
+	"intensity_weight_width_fraction": 0.25,
+	"intensity_weight_clip_limit": 128.0
+}
