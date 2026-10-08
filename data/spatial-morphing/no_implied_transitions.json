@@ -1,0 +1,10 @@
+{
+    "transitions": [
+        {
+            "source_a": "nc_det uk_det",
+            "source_b": "uk_ens",
+            "start_forecast_period_minutes": 15,
+            "end_forecast_period_minutes": 30
+        }
+    ]
+}
